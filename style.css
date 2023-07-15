@@ -133,7 +133,7 @@ ul li a:hover{
 .social-midia a:hover{
     background: var(--highlight-color);
 }
-footer{
+.footer{
     padding: 20px 0 ;
     text-align: center;
 }    
